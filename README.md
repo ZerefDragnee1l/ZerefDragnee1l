@@ -1,8 +1,5 @@
 14 y.o Dev
 
-https://github.com/hasan-kilici
-thx for bio 
-
 
 <div>
  <kbd style="width:25%">
@@ -17,7 +14,7 @@ thx for bio
    <kbd>
     <b>Back-End</b>
   </kbd><br><br>
-<img width="40px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/typescript.svg">
+<img width="40px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/python.svg">
  <img width="40px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/php.png">
 <img width="40px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/go.svg">
  <br><br></kbd><br><br>
