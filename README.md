@@ -33,5 +33,3 @@
 <li><a href="https://discordapp.com/users/414027570481201152">My Discord Profile</a></li>
  </ul>
 <br><br>
-<div align="center">
-<details>
