@@ -1,5 +1,5 @@
 Back End Dev,
-Level 1 Reverse Engineer
+Noob Reverse Engineer
 
 
 <div>
@@ -31,6 +31,6 @@ Level 1 Reverse Engineer
 </div>
 <h2>Contact me</h2>
 <ul>
-<li><a href="https://discordapp.com/users/690644488074559529">My Discord Profile</a></li>
+<li><a href="https://discordapp.com/users/">My Discord Profile</a></li>
  </ul>
 <br><br>
